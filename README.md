@@ -8,6 +8,7 @@
 * Avoiding the situations that we associate with smoking is not long-term viable; eventually you will get into those situations again.
 * **We need to break down the body's association between the act of smoking and the satisfaction of our tobacco cravings.**
 * _Replacing a smoking habit with nicotine replacement products does not accomplish this._
+* By **slowly** substituting non-tobacco for tobacco in our cigarettes, we make our body "unlearn" the association between smoking and fulfilling the crave.
 
 ## Rationale
 
