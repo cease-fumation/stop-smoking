@@ -10,14 +10,6 @@
 * _Replacing a smoking habit with nicotine replacement products does not accomplish this._
 * By **slowly** substituting non-tobacco for tobacco in our cigarettes, we make our body "unlearn" the association between smoking and fulfilling the crave.
 
-## Rationale
-
-First of all, I have used this method in the past and successfully quit smoking with surprising ease. I kept it up for over half a year _without any cravings or needing to suppress any urges_. I eventually did start smoking again when I was having self-destructive tendencies, but I don't think any method of stopping smoking could have prevented that.
-
-I have also tried nicotine replacement products; specifically, I have vaped/used an e-cig for quite some time, but honestly it did not satisfy my cravings for a cigarette. Drinking caffeinated soda does not satisfy a craving for good espresso. Before I came up with this method I tried simply smoking less, but whenever I was in a situation that I strongly associated with smoking (drinking beer with friends, for example), the cravings would weigh on me heavily and I would give in and smoke more than "budgeted". _After using this method, even being out drinking with friends did not cause any cravings._
-
-The clue here is that before this method, I had never actually broken down the association between those kinds of behaviours and the craving for tobacco. The human brain is excellent at forming emotional associations; this is how we learn a lot of basic things. Unfortunately, it is not perfect, some things make us feel good in the short term but aren't great in the longer term. We are always told we need to practice discipline and learn to control our urges, but if _we can hack our brain and break down our urges_ this has much better results.
-
 ## Benefits
 
 * Cheap
@@ -25,6 +17,14 @@ The clue here is that before this method, I had never actually broken down the a
 * No stress
 * No need to suppress urges
 * No residual urges
+
+## Rationale
+
+First of all, I have used this method in the past and successfully quit smoking with surprising ease. I kept it up for over half a year _without any cravings or needing to suppress any urges_. I eventually did start smoking again when I was having self-destructive tendencies, but I don't think any method of stopping smoking could have prevented that.
+
+I have also tried nicotine replacement products; specifically, I have vaped/used an e-cig for quite some time, but honestly it did not satisfy my cravings for a cigarette. Drinking caffeinated soda does not satisfy a craving for good espresso. Before I came up with this method I tried simply smoking less, but whenever I was in a situation that I strongly associated with smoking (drinking beer with friends, for example), the cravings would weigh on me heavily and I would give in and smoke more than "budgeted". _After using this method, even being out drinking with friends did not cause any cravings._
+
+The clue here is that before this method, I had never actually broken down the association between those kinds of behaviours and the craving for tobacco. The human brain is excellent at forming emotional associations; this is how we learn a lot of basic things. Unfortunately, it is not perfect, some things make us feel good in the short term but aren't great in the longer term. We are always told we need to practice discipline and learn to control our urges, but if _we can hack our brain and break down our urges_ this has much better results.
 
 ## Method
 
